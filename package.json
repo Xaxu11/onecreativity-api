@@ -1,0 +1,12 @@
+{
+  "name": "onecreativity-api",
+  "version": "1.0.0",
+  "description": "Simple REST API for OneCreativity platform using Node.js http and fs modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Ezana",
+  "license": "ISC"
+}
